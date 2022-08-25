@@ -1,9 +1,9 @@
 const config = {
   
-   user: 'gaecWeb',
-   password: 'Cerezo.2019',
-   database: 'GAECTI',
-   server: '18.190.98.83',
+   user: 'user',
+   password: 'Cerezo.2022',
+   database: 'GAECTI_PRU',
+   server: '192.168.1.200',
    pool: {
      max: 10,
      min: 0,
